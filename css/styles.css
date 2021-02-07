@@ -1,0 +1,47 @@
+.home_page_photo {
+	/*width: 200px;*/
+	/*height: 150px !important;*/ /* the important keyword forces anything */
+
+	/*verzio_01*/
+	width: 200px;
+	height: 200px !important; /* the important keyword forces anything */
+	object-fit: cover;
+	box-shadow: 3px 3px 5px grey;
+
+	/*verzio_02*/
+	/*width: 160px;*/
+	/*height: 300px !important;*/ /* the important keyword forces anything */
+	/*object-fit: cover;*/
+}
+
+.item_photo {
+	/*width: 100%;*/ /* ez a sor legyen vagy ne legyen? */
+	height: 300px !important; /* the important keyword forces anything */
+	object-fit: cover;
+}
+
+/****************** Home Page Pagination *************************************/
+
+.pager .active a {
+
+	background-color: #000;
+	color: #fff;
+
+}
+
+.pager .active a:hover {
+	background-color: #000 !important;
+	color: #fff;
+}
+
+/****************** New Font *************************************/
+
+.new-font {
+	font-size: 13px;
+	color: rgb(125,125,125) !important;
+}
+
+.second-footer {
+	font-size: 11px;
+	color: rgb(125,125,125);
+}
