@@ -1,4 +1,4 @@
 # gallery_leho
-Krisztina Lehoczky artist new website (PHP OOP)
-
-URL: https://www.lehoczky.eu/
+Krisztina Lehoczky artist new website  
+note: written in OO PHP  
+project URL (demo): https://www.lehoczky.eu/
